@@ -12,6 +12,7 @@
       <class name="Selenium.HandleBrowserWindow"/>
       <class name="Selenium.NavigationCommands"/>
       <class name="Selenium.GetTitleOfThePage"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

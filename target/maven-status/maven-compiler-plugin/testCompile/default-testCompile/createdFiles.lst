@@ -4,5 +4,6 @@ Selenium\NavigationCommands.class
 Selenium\BootStrapDropDown.class
 Selenium\HandleBrowserWindow.class
 Selenium\JavaScriptAlert.class
+Selenium\GetTitleOfThePage.class
 Selenium\LoginInApplicationBySingleStatement.class
 Selenium\openLinkInAnotherTab.class
